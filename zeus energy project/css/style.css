@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#partner-section {
+    background: linear-gradient(179.91deg, rgba(255, 255, 255, 0) 17.3%, rgba(255, 255, 255, 0.05) 99.92%), #B91869;
+    min-height: 70vh;
+   padding-top: 50px;
+   color: #fff;
+   font-family: 'Montserrat', 'sans-sherif';
+   
+}
+
+#partner-section .first h1 {
+    font-size: 50px;
+}
+
+#partner-section .ending img {
+    width: 20%;
+}
+
+#partner-section .first {
+    margin-left: 30px;
+}
+
+#partner-section img {
+    mix-blend-mode: screen;
+    width: 100%;
+  
+}
+
+#partner-section .dotted img {
+    width: 15%;
+    
+}
+
+#stat-section {
+    background: linear-gradient(90deg, #000 -0.07%,  #000 10.08%, rgba(255, 255, 255, 0.5)), url(/img/Mkutano_II\ -304\ 1.png);
+    height: 80vh;
+    padding-top: 50px;
+    color: #fff;
+    font-family: 'Montserrat', 'sans-sherif';
+}
+
+#stat-section .second h1 {
+    font-size: 50px;
+}
